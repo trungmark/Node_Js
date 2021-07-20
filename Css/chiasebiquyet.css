@@ -1,0 +1,247 @@
+
+.khoilon p{
+    width: 270px;
+    text-align: left;
+}
+.title{
+    width: 270px;
+
+}
+.khoilon a{
+    font-size: 18px;
+    color: #1b8030;
+    font-weight: 700;
+}
+section h2{
+    text-align: center;
+    color: #ffffff;
+    width:75%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #1b8030;
+    border-radius: 10px;
+    margin: 50px 142px 35px;
+}
+section img:hover{
+    transform: scale(1.15);
+}
+section img{
+    border-radius: 15px;
+}
+
+.row{
+    margin-left: 54px;
+}
+
+
+/*css của trung*/
+
+
+
+
+
+
+body{
+    font-size: 14px;
+    color:#333333;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background-color: whitesmoke;
+}
+
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.intruction{
+    float: right;
+    border-bottom: 1px solid grey;
+}
+.intruction img{
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+}
+.intruction .head1{
+    float: left;
+    margin: 20px 15px 10px 0;
+}
+.head1 a{
+    text-decoration: none;
+    padding-right: 5px;
+    border-right: 1px solid grey;
+    color: black;
+}
+.head1 a:hover{
+    color: red;
+}
+.claer{
+    clear: both;
+}
+.logo{
+    margin: 30px 0 20px 0;
+}
+.logo .logo1{
+    float: left;
+    width: 23%;
+    margin: 10px;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+}
+.lga{
+    float:left;
+    margin: 5px;
+    color: green;
+}
+.lga:hover{
+    color: deeppink;
+    text-shadow: 1px 1px 2px purple;
+}
+.logo a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#p1,#p2{
+    text-align: center;
+    color: blueviolet;
+}
+#p1{
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px purple;
+}
+.lo2{
+    padding-top: 50px;
+}
+.selec{
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+    height: 60px;
+}
+.selec img{
+    width: 20px;
+    height: 20px;
+}
+.selec .selec1{
+    float: left;
+    width: 10%;
+    margin:20px 10px;;
+}
+.selec a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding-right: 5px;
+    border-right: 1px solid grey;
+}
+.selec a:hover{
+    color: green;
+    text-shadow: 1px 1px 0 green;
+}
+.bg img{
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+}
+/*.main0 p{*/
+/*    margin:40px 0px 30px 0 ;*/
+/*    text-transform: capitalize;*/
+/*    font-weight: bold;*/
+/*    font-size: 30px;*/
+/*    text-align: center;*/
+/*    color: red;*/
+/*    text-shadow: 1px 1px 0 red;*/
+/*}*/
+/*.main2{*/
+/*    float: left;*/
+/*    width: 20%;*/
+/*    margin: 25px;*/
+/*    border: 1px solid darkgrey;*/
+/*}*/
+/*.main1 img{*/
+/*    width: 100%;*/
+/*    height: 250px;*/
+/*}*/
+/*.main1 a{*/
+/*    width: 100%;*/
+/*    text-decoration: none;*/
+/*    text-align: center;*/
+/*    color: forestgreen;*/
+/*}*/
+/*.main1 a:hover{*/
+/*    text-decoration: underline;*/
+/*}*/
+/*.main2 div{*/
+/*    text-align: center;*/
+/*    font-size: 20px;*/
+/*    margin:20px 0 ;*/
+/*    font-weight: bold;*/
+/*    text-transform: capitalize;*/
+/*}*/
+/*.main2:hover{*/
+/*    box-shadow: 6px -6px 4px darkgrey;*/
+/*}*/
+/*.gia{*/
+/*    color: red;*/
+/*}*/
+/*.datmua{*/
+/*    color: purple;*/
+/*    width: 60%;*/
+/*    margin-left: 5%;*/
+/*    padding: 10px;*/
+/*    border: 1px solid darkgrey;*/
+/*}*/
+/*.datmua:hover{*/
+/*    box-shadow: 6px -6px 4px darkgrey;*/
+/*    background-color: lightcoral;*/
+/*}*/
+/*.main1{*/
+/*    margin: 20px;*/
+/*}*/
+hr{
+    margin-left: 40px;
+    width: 1200px;
+    border: 1px solid grey;
+}
+.footer1{
+    float: left;
+    width: 30%;
+    margin: 15px;
+    border: 1px solid whitesmoke;
+}
+.footer1 p{
+    text-transform: uppercase;
+    margin:30px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.footer1 a{
+    text-decoration: none;
+    color: black;
+    margin:20px 0px 20px 05px;
+}
+.footer1 a:hover{
+    color: red;
+}
+.footer1 li{
+    margin: 10px 0px 10px 35px;
+}
+.end{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+#pp1{
+    text-transform: uppercase;
+    margin: 10px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+#pp2{
+    margin-bottom: 20px;
+}

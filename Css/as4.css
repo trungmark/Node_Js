@@ -1,0 +1,143 @@
+body{
+    background-color: #c1ccd4;
+}
+.background{
+    background-color: white;
+    width: 915px;
+    height: 2300px;
+    margin: auto;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin-top: 150px;
+}
+.anh{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.background ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.background li{
+    float: left;
+    margin-left: -47px;
+}
+.fi1{
+    width: 258px;
+}
+
+.readmore {
+    font-size: 10px;
+    font-weight: 10px;
+}
+.end {
+    clear: both;
+    width: 150px;
+    height: 30px;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 30px;
+    background-color: #f3f3f3;
+}
+.bottom{
+    width: 915px;
+    height: 200px;
+    background-color: #efefef;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    text-align: center;
+    margin: auto;
+}
+.bottom ul{
+    margin: 0px;
+    padding-left: 222px;
+    padding-top: 35px;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+}
+.bottom li{
+    padding: Opx;
+    float: left;
+    padding-left: 30px;
+
+}
+.bottom ul li img{
+    padding-right: 6px;
+}
+.borderbottom{
+    margin: auto;
+    width: 615px;
+    padding-top: 55px;
+}
+.footer{
+    padding-left: 65px;
+    border-left: 2px solid #c1ccd4;
+}
+.font{
+    font-weight: 1px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{*/
+/*    background-color: #c1ccd4;*/
+/*}*/
+/*.header{*/
+/*    text-align: center;*/
+/*}*/
+/*.main{*/
+/*    background-color: #ffffff;*/
+/*    width: 915px;*/
+/*    height: 2500px;*/
+/*    margin-left: 217.5px;*/
+/*    border-radius: 40px;*/
+/*}*/
+/*.fi1{*/
+/*    width: 258px;*/
+/*    float: left;*/
+/*}*/
+/*.fi2{*/
+/*    width: 258px;*/
+/*    float: left;*/
+/*    margin-left: -10px;*/
+/*}*/
+/*.fi3{*/
+/*    width: 258px;*/
+/*    float: left;*/
+/*    margin-left: -10px;*/
+
+/*}*/
+/*.readmore{*/
+/*    font-size: 10px;*/
+/*    font-weight: 10px;*/
+/*}*/
+/*a{*/
+/*    text-decoration: none;*/
+/*    color: black;*/
+/*}*/

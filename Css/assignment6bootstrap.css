@@ -1,0 +1,55 @@
+
+.background{
+    background-color: #edf0f3;
+    height: 1075px;
+    width: 1100px;
+    margin: auto;
+    margin-top: 100px;
+}
+.top1{
+    width: 1006Px;
+    height: 60px;
+    background-color: white;
+    margin: auto;
+    font-weight: 700;
+    text-align: left;
+    line-height: 60px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+
+}
+/*.featured h3{*!*/
+/*   text-align: left;*!*/
+/*    line-height: 60px;*!*/
+/*}*/
+/*Đặt thẻ p thì viết code tác dụng lên chữ lại đc còn thẻ */
+/*h3 thì phải khai báo như này mới tác dụng*/
+.anh1{
+    text-align: center;
+    margin-left: 29px;
+    width: 230px;
+    height: 450px;
+    background-color: #ffffff;
+}
+.anh1 h4,h2{
+    font-weight: 700;
+}
+img{
+    margin-left: -15px;
+}
+/*Tại sao img phải trừ 15 mới thẳng hàng vs khối ảnh 1 được*/
+
+.pd1{
+    width: 230px;
+    height: 38px;
+    background-color: #2b2b2b;
+    margin-left: -15px;
+    margin-bottom: 0px;
+
+}
+.pd1 h4{
+    color: white;
+    line-height: 40px;
+    text-align: center;
+}
