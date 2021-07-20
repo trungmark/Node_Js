@@ -2,7 +2,7 @@ var express = require("express");
 var app = express(); // tao 1 ung dung tu express module
 // var port = 5000;
 //để cho lên heroku thay bằng cổng sau
-var port = process.env.PORT|5000;
+var port = process.env.PORT || 5000;
 
 app.listen(port,function (){
     console.log("Server is running....");
